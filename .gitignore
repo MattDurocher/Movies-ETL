@@ -3,6 +3,7 @@ links_small.csv
 links.csv
 credits.csv
 ratings.csv
+config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
